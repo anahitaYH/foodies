@@ -30,7 +30,7 @@ export default function ShareMealPage() {
           </p>
           <p>
             <label htmlFor="summary">Short Summary</label>
-            <input type="text" id="summary" name="summery" required />
+            <input type="text" id="summary" name="summary" required />
           </p>
           <p>
             <label htmlFor="instructions">Instructions</label>
